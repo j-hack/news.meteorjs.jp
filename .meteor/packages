@@ -44,3 +44,5 @@ telescope:update-prompt
 ############ Your Custom Packages ############
 
 # my-custom-package
+accounts-github
+accounts-meteor-developer

@@ -33,7 +33,9 @@ Template.css.helpers({
     var selectors = [
       {name: 'email', selector: ".at-pwd-form"},
       {name: 'twitter', selector: "#at-twitter"},
-      {name: 'facebook', selector: "#at-facebook"}
+      {name: 'facebook', selector: "#at-facebook"},
+      {name: 'meteor-developer', selector: "#at-meteor-developer"},
+      {name: 'github', selector: "#at-github"}
     ];
     selectors.forEach(function (method) {
       // if current method is not one of the enabled auth methods, hide it

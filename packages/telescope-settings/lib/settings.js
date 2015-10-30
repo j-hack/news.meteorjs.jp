@@ -450,6 +450,14 @@ Settings.schema = new SimpleSchema({
         {
           value: 'facebook',
           label: 'Facebook'
+        },
+        {
+          value: 'meteor-developer',
+          label: 'Meteor Developer'
+        },
+        {
+          value: 'github',
+          label: 'GitHub'
         }
       ],
       instructions: 'Authentication methods (default to email only)'

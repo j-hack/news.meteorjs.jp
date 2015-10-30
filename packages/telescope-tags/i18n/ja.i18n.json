@@ -1,2 +1,6 @@
 {
+  "categories" : "カテゴリ一覧",
+  "add_and_remove_categories" : "カテゴリの追加または削除",
+  "all_categories" : "すべて",
+  "invalid_category" : "Sorry, this is not a valid category"
 }

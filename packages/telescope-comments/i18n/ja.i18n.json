@@ -1,2 +1,14 @@
 {
+  "sorry_you_cannot_edit_this_comment" : "このコメントは編集できません。",
+  "your_comment_has_been_deleted" : "あなたのコメントは削除されました。",
+  "comment_" : "コメント",
+  "delete_comment" : "コメント削除",
+  "add_comment" : "コメント追加",
+  "upvote" : "評価する",
+  "downvote" : "downvote",
+  "link" : "リンク",
+  "edit" : "編集",
+  "reply" : "返信",
+  "no_comments" : "コメントはありません。",
+  "please_sign_in_to_reply" : "コメントに返信するにはログインしてください。"
 }

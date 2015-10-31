@@ -1,14 +1,14 @@
 Package.describe({
   name: "telescope:core",
   summary: "Telescope core package",
-  version: "0.25.5",
+  version: "0.25.6",
   git: "https://github.com/TelescopeJS/Telescope.git"
 });
 
 Package.onUse(function(api) {
 
   api.versionsFrom("METEOR@1.0");
-  
+
   var packages = [
     'telescope:lib@0.25.5', //  no dependencies
     'telescope:messages@0.25.5', // lib
@@ -21,7 +21,7 @@ Package.onUse(function(api) {
   ];
 
   api.use(packages);
-  
+
   api.imply(packages);
 
   api.addFiles([

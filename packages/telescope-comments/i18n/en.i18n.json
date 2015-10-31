@@ -10,5 +10,6 @@
   "edit" : "Edit",
   "reply" : "Reply",
   "no_comments" : "No comments.",
-  "please_sign_in_to_reply" : "Please sign in to reply"
+  "please_sign_in_to_reply" : "Please sign in to reply",
+  "this_comment_has_been_deleted": "This comment has been deleted."
 }

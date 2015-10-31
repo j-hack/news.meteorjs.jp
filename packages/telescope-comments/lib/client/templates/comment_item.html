@@ -2,7 +2,7 @@
   <li class="comment module comment-displayed {{commentClass}}" id="{{_id}}">
    <div class="comment-body">
       {{#if isDeleted}}
-        <div class="comment-deleted">This comment has been deleted.</div>
+        <div class="comment-deleted">{{_ "this_comment_has_been_deleted"}}</div>
       {{else}}
       <div class="comment-content">
         <div class="comment-actions comment-vote {{#if upvoted}}upvoted{{else}}not-upvoted{{/if}} {{#if downvoted}}downvoted{{else}}not-downvoted{{/if}}">
@@ -27,7 +27,7 @@
             | <span>{{full_date}}</span>
           {{/if}}
         </div>
-        <div class="comment-main"> 
+        <div class="comment-main">
           <div class="comment-text markdown">{{{htmlBody}}}</div>
           <a href="{{pathFor 'commentPage' _id=_id}}" class="comment-reply">{{_ "reply"}}</a>
         </div>

@@ -46,3 +46,4 @@ telescope:update-prompt
 # my-custom-package
 accounts-github
 accounts-meteor-developer
+es5-shim

@@ -33,7 +33,6 @@ telescope:search
 telescope:share
 # telescope:singleday
 # telescope:sitemap
-telescope:spiderable
 telescope:subscribe-to-posts # notifications
 telescope:tagline-banner
 telescope:tags

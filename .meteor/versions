@@ -131,7 +131,6 @@ sha@1.0.4
 softwarerero:accounts-t9n@1.1.4
 spacebars@1.0.7
 spacebars-compiler@1.0.7
-spiderable@1.0.9
 srp@1.0.4
 standard-app-packages@1.0.6
 tap:i18n@1.7.0
@@ -163,7 +162,6 @@ telescope:scoring@0.25.5
 telescope:search@0.25.5
 telescope:settings@0.25.5
 telescope:share@0.25.5
-telescope:spiderable@0.25.5
 telescope:subscribe-to-posts@0.25.5
 telescope:tagline-banner@0.25.5
 telescope:tags@0.25.5

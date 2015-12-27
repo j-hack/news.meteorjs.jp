@@ -54,6 +54,8 @@ facebook@1.2.2
 fastclick@1.0.7
 fortawesome:fontawesome@4.4.0
 fourseven:scss@3.4.1
+gadicohen:robots-txt@0.0.10
+gadicohen:sitemaps@0.0.23
 geojson-utils@1.0.4
 github@1.1.4
 handlebars@1.0.4
@@ -162,6 +164,7 @@ telescope:scoring@0.25.6
 telescope:search@0.25.6
 telescope:settings@0.25.6
 telescope:share@0.25.6
+telescope:sitemap@0.25.6
 telescope:spiderable@0.25.6
 telescope:subscribe-to-posts@0.25.6
 telescope:tagline-banner@0.25.6

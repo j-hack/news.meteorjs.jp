@@ -39,6 +39,7 @@ telescope:tags
 telescope:theme-base
 telescope:theme-hubble
 telescope:update-prompt
+telescope:spiderable
 
 ############ Your Custom Packages ############
 
@@ -46,4 +47,4 @@ telescope:update-prompt
 accounts-github
 accounts-meteor-developer
 es5-shim
-ongoworks:spiderable
+# ongoworks:spiderable
